@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0b7a38a-9be0-4506-921e-bb85d64570c0" name="Default Changelist" comment="Gotov zadatak 2 tutorijal 2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/rpr-t2-z2/ba/unsa/etf/rpr/tutorijal02/Interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/rpr-t2-z2/ba/unsa/etf/rpr/tutorijal02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/rpr-t2-z2/ba/unsa/etf/rpr/tutorijal02/IntervalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpr-t2-z2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr-t2-z2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jpYD2jCKYRfHcgnFqU7c10QU76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-t2-z2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.tutorijal02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.tutorijal02" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.tutorijal02.IntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntervalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b7a38a-9be0-4506-921e-bb85d64570c0" name="Default Changelist" comment="" />
+      <created>1604502377072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604502377072</updated>
+      <workItem from="1604502378258" duration="890000" />
+      <workItem from="1605021705041" duration="3816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gotov zadatak 2 tutorijal 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gotov zadatak 2 tutorijal 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1605026086637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160/1920.0.1366.728@0.0.1920.1160" timestamp="1605021827580" />
+    <state x="544" y="141" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026086637" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605026879013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026879013" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605026879012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026879012" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605026879012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026879012" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605026879012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026879012" />
+    <state x="1743" y="201" key="Vcs.Push.Dialog.v2" timestamp="1605026886699">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1743" y="201" key="Vcs.Push.Dialog.v2/1366.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1605026886699" />
+    <state x="2030" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604502438778">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2030" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604502438778" />
+  </component>
+</project>
